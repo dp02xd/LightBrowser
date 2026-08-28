@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">LightBrowser</string>
+
+    <string name="search_or_enter_url">
+        Search or enter URL
+    </string>
+
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="reload">Reload</string>
+    <string name="menu">Menu</string>
+
+</resources>
