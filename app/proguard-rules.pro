@@ -1,0 +1,1 @@
+# LightBrowser custom rules
